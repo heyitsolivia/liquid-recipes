@@ -35,6 +35,7 @@ Foods that offer up the liquid in liquid meals
 - [ ] Grapes
 - [ ] Kale
 - [ ] Spinach
+- [ ] Swiss chard
 
 ### Stock up on stock
 
@@ -57,3 +58,4 @@ Foods that offer up the liquid in liquid meals
 ### Added acessories
 - [ ] Liquid smoke
 - [ ] Tomato powder
+- [ ] Ginger
