@@ -4,11 +4,11 @@ Liquid meals that taste like real food. Saving J from post-jaw surgery Ensure ni
 ---
 
 ### Equip yoself
-- [ ] Fine Mesh Strainer
+- [ ] Fine mesh strainer
 - [ ] Juicer
 - [ ] Blender
-- [ ] Mortar & Pestle
-- [ ] Dry Erase Board (oral communication replacement)
+- [ ] Mortar & pestle
+- [ ] Dry erase board (oral communication replacement)
 
 ### Basics bases
 These foods make up the carbs & starches of meals and add thicker consistency.
@@ -48,11 +48,12 @@ Foods that offer up the liquid in liquid meals
 - [ ] Olive oil
 - [ ] Cheese
 - [ ] Cream
-- [ ] Sour Cream
-- [ ] Cream Cheese
-- [ ] Ice Cream
+- [ ] Sour cream
+- [ ] Cream cheese
+- [ ] Ice cream
+- [ ] Peanut butter
+- [ ] Nutella
 
-
-### Added Acessories
+### Added acessories
 - [ ] Liquid smoke
 - [ ] Tomato powder
