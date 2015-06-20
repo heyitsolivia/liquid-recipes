@@ -11,7 +11,7 @@ Liquid meals that taste like real food. Saving J from post-jaw surgery Ensure ni
 - [ ] Dry erase board (oral communication replacement)
 
 ### Basics bases
-These foods make up the carbs & starches of meals and add thicker consistency.
+Pureed, these foods make up the carbs & starches of meals and add thicker consistency.
 - [ ] Potatos
 - [ ] Peas
 - [ ] Cauliflower
@@ -24,7 +24,7 @@ These foods make up the carbs & starches of meals and add thicker consistency.
 - [ ] Yogurt
 
 ### Just juices
-Foods that offer up the liquid in liquid meals
+Juiced, these foods offer up the liquid in liquid meals
 - [ ] Carrots
 - [ ] Oranges
 - [ ] Pears
@@ -36,6 +36,7 @@ Foods that offer up the liquid in liquid meals
 - [ ] Kale
 - [ ] Spinach
 - [ ] Swiss chard
+- [ ] Celery
 
 ### Stock up on stock
 
@@ -55,7 +56,7 @@ Foods that offer up the liquid in liquid meals
 - [ ] Peanut butter
 - [ ] Nutella
 
-### Added acessories
+### Additional acessories
 - [ ] Liquid smoke
 - [ ] Tomato powder
 - [ ] Ginger
